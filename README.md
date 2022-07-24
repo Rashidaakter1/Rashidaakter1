@@ -1,12 +1,12 @@
 ### Hi , I am Rashida  👋
 
-<!---<div align="center">
+<div align="center">
 <img width="100%" height = "350px" src="https://raw.githubusercontent.com/ferdousr3/f-g-banner/main/js%20(1).png" alt="cover" />
-</div>--->
+</div>
 
-<!-- <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+ <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
- -->
+ 
 
 </p>
 <div size='20px'>
@@ -20,7 +20,7 @@
 
 
 
-• <b>Expertise:</b> HTML5, CSS3, Bootstrap5, JavaScript, ES6, REST API, ReactJS, React-Router,NextJS, React-Bootstrap, Authentication, Tailwind CSS, And  Material UI. </br>
+• <b>Expertise:</b> HTML5, CSS3, Bootstrap5, JavaScript, ES6, REST API, ReactJS, React-Router, React-Bootstrap, Authentication, Tailwind CSS </br>
 • <b>Comfortable:</b> Node JS, MongoDB, Express JS, And Payment Method.  </br>
 • <b>Familiar:</b> With react Native,  React Query, React Hook Form, And Typescript.  </br>
 • <b>Tools:</b> GitHub, Firebase, Netlify, Heroku, VS Code, And Chrome Dev Tool
@@ -29,12 +29,12 @@
 
 <!----<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">---->
 <h2> Connect with me  </h2>
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = ''>
+<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.linkedin.com/in/therashida-akter/'>
    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=LinkedIn&logoColor=white&logoWidth=30" alt="Linkedin">
   </a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = ''> 
-  <img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white&logoWidth=30" alt="Linkedin">
+<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://twitter.com/rashida08689651'> 
+  <img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white&logoWidth=30" alt="twitter">
 </a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = ''> 
+<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://github.com/Rashidaakter1'> 
   <img src="https://img.shields.io/badge/-GitHub-222021?logo=GitHub&logoColor=white&logoWidth=30" alt="Linkedin">
 </a> 
