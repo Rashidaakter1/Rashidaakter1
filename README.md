@@ -4,23 +4,21 @@
 
 <img src = "https://scontent.xx.fbcdn.net/v/t1.15752-9/307825672_408912468068558_2421899053514021381_n.png?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_ohc=guZZgIr8T1EAX8WucUE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLlKkbjKamt6GiLZVUl8XOu_65Dce8qzJInZahYfXRksg&oe=635493B4">
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rashida08689651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashida08689651" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/therashida-akter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/therashida-akter/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rashidaakterchadni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rashidaakterchadni" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-• <b>Expertise:</b> HTML5, CSS3, Bootstrap5, JavaScript, ES6, REST API, ReactJS, React-Router, React-Bootstrap, Authentication, Tailwind CSS </br>
-• <b>Comfortable:</b> Node JS, MongoDB, Express JS, And Payment Method.  </br>
-• <b>Familiar:</b> With react Native,  React Query, React Hook Form, And Typescript.  </br>
-• <b>Tools:</b> GitHub, Firebase, Netlify, Heroku, VS Code, And Chrome Dev Tool
+[![rashida's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rashidaakter1&theme=rogue)](https://github.com/rashidaakter1/github-readme-activity-graph)
+[![rashida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidaakter1&show_icons=true&theme=dracula)](https://github.com/Rashidaakter1/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidaakter1&langs_count=8&theme=dracula)](https://github.com/Rashidaakter1/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidaakter1&theme=dracula" alt="rashidaakter1" /></p>
 
-<!----<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">---->
-<h2> Connect with me  </h2>
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.linkedin.com/in/therashida-akter/'>
-   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=LinkedIn&logoColor=white&logoWidth=30" alt="Linkedin">
-  </a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://twitter.com/rashida08689651'> 
-  <img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white&logoWidth=30" alt="twitter">
-</a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://github.com/Rashidaakter1'> 
-  <img src="https://img.shields.io/badge/-GitHub-222021?logo=GitHub&logoColor=white&logoWidth=30" alt="Linkedin">
-</a> 
