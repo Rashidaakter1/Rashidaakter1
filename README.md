@@ -16,9 +16,9 @@
 
 
 [![rashida's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rashidaakter1&theme=rogue)](https://github.com/rashidaakter1/github-readme-activity-graph)
-[![rashida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidaakter1&show_icons=true&theme=dracula)](https://github.com/Rashidaakter1/github-readme-stats)
+[![rashida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashidaakter1&show_icons=true&theme=dark)](https://github.com/Rashidaakter1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidaakter1&langs_count=8&theme=dracula)](https://github.com/Rashidaakter1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidaakter1&langs_count=8&theme=dark)](https://github.com/Rashidaakter1/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidaakter1&theme=dracula" alt="rashidaakter1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidaakter1&theme=dark" alt="rashidaakter1" /></p>
 
