@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115d8124e99b87c214427f26f84d55111d69f640c9&rid=giphy.gif&ct=g"/></h1>
+<h1 align="center"><img src="https://i.ibb.co/QMqmFcX/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png"/></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rashida AKter</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
