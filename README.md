@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://web-dev-portfolio-rashida.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-portfolio-e917a.web.app/)**
 
 - 📫 How to reach me **rashidaakterchadni@gmail.com**
 
