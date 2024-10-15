@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.ibb.co/Z2G9mjS/Blue-Geometric-Technology-Linked-In-Banner-2.png"/></h1>
+<h1 align="center"><img src="https://i.ibb.co.com/8mFhMXs/1708166323379.jpg"/></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rashida AKter</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
@@ -41,10 +41,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Rashidaakter1/github-readme-activity-graph"><img alt="Rashida's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rashidaakter1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
